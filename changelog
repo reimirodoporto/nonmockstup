@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to the Space Travelers Universal Playlist Engine will be documented in this file.
+
+## [11.1.0] - 2026-06-06
+### Fixed
+- Corrected Hugging Face dataset telemetry mapping from generic row indexes to explicit `resonance_frequency_khz` schema fields.
+- Added dynamic numerical type fallback for payload feature extraction in `PredictorZone`.
+
+### Added
+- Standalone browser test harness (`tests.html`) for offline unit and integration verification.
+
+## [11.0.0] - 2026-06-01
+### Added
+- Initial decoupled architecture separating `PredictorZone` and `CoreAlgorithmEngine`.
+- 121-Node Phi-harmonic grid weighting using Golden Ratio mass attenuation.
+- Ternary intent state machine (`-1`, `0`, `1`) anchored by `@` and Node 120 (`||`).
+- $60 \times 60$ ROM checksum and receipt validation pipeline.
