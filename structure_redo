@@ -1,0 +1,11 @@
+space-travelers-universal-playlist/
+├── .github/
+│   ├── workflows/
+│   │   └── test.yml           # CI/CD Automated testing workflow
+│   └── ISSUE_TEMPLATE/        # Standardized bug report & feature templates
+├── space-travelers-engine.user.js # Main Tampermonkey userscript
+├── tests.html                 # Browser test suite UI
+├── README.md                  # Comprehensive architectural guide
+├── CHANGELOG.md               # Version history and update logs
+├── CONTRIBUTING.md            # Guidelines for contributors
+└── LICENSE                    # Open-source license (e.g., MIT)
